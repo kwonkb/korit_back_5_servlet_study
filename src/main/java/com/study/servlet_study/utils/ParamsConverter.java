@@ -1,4 +1,4 @@
-package utils;
+package com.study.servlet_study.utils;
 
 import java.util.Arrays;
 import java.util.HashMap;
